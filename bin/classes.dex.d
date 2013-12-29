@@ -1,0 +1,22 @@
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes.dex : \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/R$anim.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/OrthoLib$2.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/OrthoLib.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/R.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/util/Client.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/util/Book.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/util/OrthoLibException.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/R$string.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/SigninActiv$NativeLangSelectionListener.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/R$attr.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/Second.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/R$layout.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/OrthoLib$3.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/SigninActiv.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/R$id.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/R$drawable.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/BuildConfig.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/OrthoLib$1.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/SigninActiv$1.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/classes/nl/insomnia247/nailbiter/ortholib/R$array.class \
+/home/nailbiter/forjava/android-sdk-linux_x86/reader/bin/dexedLibs/PdfViewer-d6970d88a2d68100d2469edf2048881d.jar \

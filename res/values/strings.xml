@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, PdfViewerActivity!</string>
+    <string name="app_name">PdfViewer</string>
+    <string name="login_hint">login</string>
+    <string name="password_hint">password</string>
+    <string name="ok">Ok</string><!--stupid, but enforces cosistency-->
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="email_hint">e-mail</string>
+    <string-array name="nativelang_array">
+	    <item>english</item>
+	    <item>中文(简体字)</item>
+	    <item>русский</item>
+    </string-array>
+    <string name="incor_login_or_pwd_msg">Incorrect login/pwd. Please, try again.</string>
+    <string name="sign_in_welcome_msg">Hi! Please log in if You have password, or register.</string>
+    <string name="sign_in_user_exists_msg">Looks like this login is already in use. Could You try different one?</string>
+    <string name="no_connection_msg">No internet connection.</string>
+    <string name="saints_cat">Saints</string>
+    <string name="service_cat">Service</string>
+    <string name="beginners_cat">For beginners</string>
+    <string name="theology_cat">Theology</string>
+    <string name="history_cat">History</string>
+    <string name="iconography_cat">Icons</string>
+    <string name="others_cat">Others</string>
+</resources>

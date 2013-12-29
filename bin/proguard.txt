@@ -1,0 +1,15 @@
+# view AndroidManifest.xml #generated:8
+-keep class nl.insomnia247.nailbiter.ortholib.OrthoLib { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class nl.insomnia247.nailbiter.ortholib.Second { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class nl.insomnia247.nailbiter.ortholib.SigninActiv { <init>(...); }
+
+# onClick res/layout/dialog_signin.xml #generated:51
+-keepclassmembers class * { *** register_mode(...); }
+
+# onClick res/layout/dialog_signin.xml #generated:44
+-keepclassmembers class * { *** submitCallbackLogin(...); }
+
